@@ -18,7 +18,7 @@ B 站的 2233 娘，俩姐妹 。具体见 [Bilibili 娘 - 萌娘百科](https:/
   
 | 001 | 002 | 003 | 004 | 005 |  
 |:-----:|:-----:|:-----:|:-----:|:-----:|  
-| ![image](https://cdn.jsdelivr.net/gh/barkure/emoticon@master/萌萌哒小表情.apk/packages/2233%20娘/001.png) | ![image](http://emoticon.gitx.fun/packages/2233%20娘/002.png) | ![image](http://emoticon.gitx.fun/packages/2233%20娘/003.png) | ![image](http://emoticon.gitx.fun/packages/2233%20娘/004.png) | ![image](http://emoticon.gitx.fun/packages/2233%20娘/005.png) |  
+| ![image](https://cdn.jsdelivr.net/gh/barkure/emoticon@master/packages/2233%20娘/001.png) | ![image](http://emoticon.gitx.fun/packages/2233%20娘/002.png) | ![image](http://emoticon.gitx.fun/packages/2233%20娘/003.png) | ![image](http://emoticon.gitx.fun/packages/2233%20娘/004.png) | ![image](http://emoticon.gitx.fun/packages/2233%20娘/005.png) |  
   
 #### 表情包下载  
   
