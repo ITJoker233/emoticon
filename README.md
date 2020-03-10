@@ -6,7 +6,7 @@
 ![](https://img.shields.io/github/contributors/barkure/emoticon.svg?style=flat-square)
 ![](https://img.shields.io/github/stars/barkure/emoticon.svg?style=flat-square)
 
-此页面会添加一些时下流行且符合国家利益的表情包，如您有相关建议或需求可以通过页尾的[联系方式](https://mqaqm.com/#联系方式)联系我
+此页面会添加一些时下流行的表情包，如您有相关建议或需求可以通过页尾的[联系方式](https://mqaqm.com/#联系方式)联系我
 > 您可以通过 [**下载相应的客户端**](https://cdn.jsdelivr.net/gh/barkure/barkure.github.io@master/base.apk) 在多个社交软件中快捷的发送表情。
 
 ## 表情包列表  
@@ -941,7 +941,7 @@ http://emoticon.gitx.fun/packages/披被子的滑稽.zip
 
 ### 客户端
 
-####客户端下载
+#### 客户端下载
 点击[此链接](https://cdn.jsdelivr.net/gh/barkure/barkure.github.io@master/base.apk)下载。该客户端已停止维护，但现仍能正常运行
   
 ##### 客户端功能  
@@ -952,7 +952,8 @@ http://emoticon.gitx.fun/packages/披被子的滑稽.zip
 ##### 客户端截图  
   
 ![image](http://emoticon.gitx.fun/images/client_1.jpg)  
-  
+### 内容限制
+由于本项目作者身处国内，请勿上传色情暴力、国家安全、对政府的批评、隐私、诽谤等违法内容。
 ### 参与项目  
   
 本项目需要长期进行频繁的维护，你可以通过以下方式参与。  
@@ -982,7 +983,7 @@ http://emoticon.gitx.fun/packages/披被子的滑稽.zip
   
 ### 联系方式  
   
-- 酷安 [酸奶瓶盖](http://www.coolapk.com/u/1551901)  
+- 酷安 @[酸奶瓶盖](http://www.coolapk.com/u/1551901)  
 - 博客 <https://guguga.cn> 
 - 邮件 i@mQAQm.com
 
