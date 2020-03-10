@@ -1,5 +1,5 @@
 ## 前言    
-[KallyDev](https://github.com/kallydev)大佬曾做过一个Emoticon网络表情数据包储存库，但其中的表情包资源已经很久没有更新了，因此我建立了此页面以完善相应的表情包资源。    
+[KallyDev](https://github.com/kallydev)大佬曾做过一个Emoticon网络表情数据包储存库，但大佬~~没有精力~~（懒得）更新相关资源，因此我建立了此页面以完善相应的表情包资源。    
 ## Emoticon 表情    
 ![](https://img.shields.io/github/license/barkure/emoticon.svg?style=flat-square)  
 ![](https://img.shields.io/github/last-commit/barkure/emoticon.svg?style=flat-square)  
