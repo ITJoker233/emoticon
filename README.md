@@ -18,12 +18,12 @@ B 站的 2233 娘，俩姐妹 。具体见 [Bilibili 娘 - 萌娘百科](https:/
   
 | 001 | 002 | 003 | 004 | 005 |  
 |:-----:|:-----:|:-----:|:-----:|:-----:|  
-| ![image](http://emoticon.gitx.fun/packages/2233%20娘/001.png) | ![image](http://emoticon.gitx.fun/packages/2233%20娘/002.png) | ![image](http://emoticon.gitx.fun/packages/2233%20娘/003.png) | ![image](http://emoticon.gitx.fun/packages/2233%20娘/004.png) | ![image](http://emoticon.gitx.fun/packages/2233%20娘/005.png) |  
+| ![image](https://cdn.jsdelivr.net/gh/barkure/emoticon@master/萌萌哒小表情.apk/packages/2233%20娘/001.png) | ![image](http://emoticon.gitx.fun/packages/2233%20娘/002.png) | ![image](http://emoticon.gitx.fun/packages/2233%20娘/003.png) | ![image](http://emoticon.gitx.fun/packages/2233%20娘/004.png) | ![image](http://emoticon.gitx.fun/packages/2233%20娘/005.png) |  
   
 #### 表情包下载  
   
 ```text  
-https://emoticon.gitx.fun/packages/2233%20娘.zip  
+https://cdn.jsdelivr.net/gh/barkure/emoticon@master/packages/2233%20娘.zip  
 ```  
   
 ### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 咸鱼  
@@ -50,7 +50,7 @@ https://emoticon.gitx.fun/packages/咸鱼.zip
   
 | 001 | 002 | 003 | 004 | 005 |  
 |:-----:|:-----:|:-----:|:-----:|:-----:|  
-| ![image](http://emoticon.gitx.fun/packages/安排得明明白白/001.png) | ![image](http://emoticon.gitx.fun/packages/安排得明明白白/002.png) | ![image](http://emoticon.gitx.fun/packages/安排得明明白白/003.png) | ![image](http://emoticon.gitx.fun/packages/安排得明明白白/004.png) | ![image](http://emoticon.gitx.fun/packages/安排得明明白白/005.png) |  
+| ![image](https://cdn.jsdelivr.net/gh/barkure/emoticon@master/packages/安排得明明白白/001.png) | ![image](http://emoticon.gitx.fun/packages/安排得明明白白/002.png) | ![image](http://emoticon.gitx.fun/packages/安排得明明白白/003.png) | ![image](http://emoticon.gitx.fun/packages/安排得明明白白/004.png) | ![image](http://emoticon.gitx.fun/packages/安排得明明白白/005.png) |  
   
 #### 表情包下载  
   
@@ -942,7 +942,7 @@ http://emoticon.gitx.fun/packages/披被子的滑稽.zip
 ### 客户端
 
 #### 客户端下载
-点击[此链接](https://cdn.jsdelivr.net/gh/barkure/barkure.github.io@master/base.apk)下载。该客户端已停止维护，但现仍能正常运行
+点击[此链接](https://cdn.jsdelivr.net/gh/barkure/emoticon@master/萌萌哒小表情.apk)下载。该客户端已停止维护，但现仍能正常运行
   
 ##### 客户端功能  
   
@@ -951,7 +951,7 @@ http://emoticon.gitx.fun/packages/披被子的滑稽.zip
   
 ##### 客户端截图  
   
-![image](http://emoticon.gitx.fun/images/client_1.jpg)  
+![image](https://cdn.jsdelivr.net/gh/barkure/emoticon@master/images/client_1.jpg)  
 ### 内容限制
 由于本项目作者身处国内，请勿上传色情暴力、国家安全、对政府的批评、隐私、诽谤等违法内容。
 ### 参与项目  
