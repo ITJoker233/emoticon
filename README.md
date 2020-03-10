@@ -7,7 +7,7 @@
 ![](https://img.shields.io/github/stars/barkure/emoticon.svg?style=flat-square)  
   
 此页面会添加一些时下流行的表情包，如您有相关建议或需求可以通过页尾的[联系方式](https://mqaqm.com/#联系方式)联系我  
-> 您可以通过 [**下载相应的客户端**](https://mqaqm.com/#客户端) 在多个社交软件中快捷的发送表情。  
+> 您可以通过下载安装 [**相应的客户端**](https://mqaqm.com/#客户端) 在多个社交软件中快捷的发送表情。  
   
 ## 表情包列表    
 ### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 2233 娘    
