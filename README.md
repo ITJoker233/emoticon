@@ -151,7 +151,7 @@ https://cdn.jsdelivr.net/gh/barkure/emoticon@master/packages/三连.zip
 #### 表情包下载    
     
 ```text    
-https://cdn.jsdelivr.net/gh/barkure/emoticon@master/packages/邻家索菲.zip    
+https://dl.mqaqm.com/邻家索菲.zip    
 ```    
     
 ### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) ARU    
@@ -258,7 +258,7 @@ https://cdn.jsdelivr.net/gh/barkure/emoticon@master/packages/Python%20中文.zip
     
 | 001 | 002 | 003 | 004 | 005 |    
 |:-----:|:-----:|:-----:|:-----:|:-----:|    
-| ![image](https://cdn.jsdelivr.net/gh/barkure/emoticon@master/packages/V2%20日常/001.png) | ![image](https://cdn.jsdelivr.net/gh/barkure/emoticon@master/packages/V2%20日常/002.png) | ![image](https://cdn.jsdelivr.net/gh/barkure/emoticon@master/packages/V2%20日常/003.png) | ![image](https://cdn.jsdelivr.net/gh/barkure/emoticon@master/packages/V2%20日常/004.png) | ![image](https://cdn.jsdelivr.net/gh/barkure/emoticon@master/packages/V2%20日常/005.png) |    
+| ![image](https://dl.mqaqm.com/V2%20日常/001.png) | ![image](https://cdn.jsdelivr.net/gh/barkure/emoticon@master/packages/V2%20日常/002.png) | ![image](https://cdn.jsdelivr.net/gh/barkure/emoticon@master/packages/V2%20日常/003.png) | ![image](https://cdn.jsdelivr.net/gh/barkure/emoticon@master/packages/V2%20日常/004.png) | ![image](https://cdn.jsdelivr.net/gh/barkure/emoticon@master/packages/V2%20日常/005.png) |    
     
 #### 表情包下载    
     
@@ -316,9 +316,9 @@ https://cdn.jsdelivr.net/gh/barkure/emoticon@master/packages/什么时间了.zip
     
 ### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 兽耳酱    
     
-`动漫` `354 张`    
+`动漫` `354 张`  `66MB` 
     
-原作者 [ながユー - Pixiv](https://www.pixiv.net/member.php?id=2509595)。    
+原作者 [ながユー - Pixiv](https://www.pixiv.net/member.php?id=2509595)。
     
 | 001 | 002 | 003 | 004 | 005 |    
 |:-----:|:-----:|:-----:|:-----:|:-----:|    
@@ -328,7 +328,7 @@ https://cdn.jsdelivr.net/gh/barkure/emoticon@master/packages/什么时间了.zip
 #### 表情包下载    
     
 ```text    
-https://cdn.jsdelivr.net/gh/barkure/emoticon@master/packages/兽耳酱.zip    
+https://dl.mqaqm.com/兽耳酱.zip    
 ```    
     
 ### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 刷机信仰    
@@ -365,7 +365,7 @@ https://cdn.jsdelivr.net/gh/barkure/emoticon@master/packages/古明地觉.zip
     
 ### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 天使降临到了我的身边    
     
-`动漫` `192 张`    
+`动漫` `192 张`  `33MB` 
     
 动漫 [天使降临到了我的身边 - 哔哩哔哩](https://b23.tv/ep259653) 系列表情包。    
     
@@ -376,7 +376,7 @@ https://cdn.jsdelivr.net/gh/barkure/emoticon@master/packages/古明地觉.zip
 #### 表情包下载    
     
 ```text    
-https://cdn.jsdelivr.net/gh/barkure/emoticon@master/packages/天使降临到了我的身边.zip    
+https://dl.mqaqm.com/天使降临到了我的身边.zip    
 ```    
     
 ### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) Bison 仓鼠    
@@ -408,7 +408,7 @@ https://cdn.jsdelivr.net/gh/barkure/emoticon@master/packages/Bison%20仓鼠.zip
 #### 表情包下载    
     
 ```text    
-https://cdn.jsdelivr.net/gh/barkure/emoticon@master/packages/小林家的龙女仆.zip    
+https://dl.mqaqm.com/小林家的龙女仆.zip    
 ```    
     
 ### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 干物妹小埋    
@@ -520,7 +520,7 @@ https://cdn.jsdelivr.net/gh/barkure/emoticon@master/packages/猫女孩.zip
 #### 表情包下载    
     
 ```text    
-https://cdn.jsdelivr.net/gh/barkure/emoticon@master/packages/猫狗整合.zip    
+https://dl.mqaqm.com/猫狗整合.zip    
 ```    
     
 ### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 王境泽    
@@ -568,7 +568,7 @@ https://cdn.jsdelivr.net/gh/barkure/emoticon@master/packages/白白在吃啥.zip
 #### 表情包下载    
     
 ```text    
-https://cdn.jsdelivr.net/gh/barkure/emoticon@master/packages/神楽七奈.zip    
+https://dl.mqaqm.com/神楽七奈.zip    
 ```    
     
 ### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 神乐魅娅    
@@ -733,7 +733,7 @@ https://cdn.jsdelivr.net/gh/barkure/emoticon@master/packages/呆萌小人.zip
     
 ### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 假笑男孩    
     
-`公众人物` `104 张`    
+`公众人物` `104 张`   `35MB`
     
 群友提供，来源未知。    
     
@@ -744,12 +744,12 @@ https://cdn.jsdelivr.net/gh/barkure/emoticon@master/packages/呆萌小人.zip
 #### 表情包下载    
     
 ```text    
-https://cdn.jsdelivr.net/gh/barkure/emoticon@master/packages/假笑男孩.zip    
+https://dl.mqaqm.com/假笑男孩.zip    
 ```    
     
 ### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 商业头盔    
     
-`原创人物` `144 张`    
+`原创人物` `144 张`   `34MB` 
     
 网络流传，来源未知。    
     
@@ -760,7 +760,7 @@ https://cdn.jsdelivr.net/gh/barkure/emoticon@master/packages/假笑男孩.zip
 #### 表情包下载    
     
 ```text    
-https://cdn.jsdelivr.net/gh/barkure/emoticon@master/packages/商业头盔.zip    
+https://dl.mqaqm.com/商业头盔.zip    
 ```    
     
 ### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 嗷大喵    
@@ -920,7 +920,7 @@ https://cdn.jsdelivr.net/gh/barkure/emoticon@master/packages/小坏坏.zip
 #### 表情包下载    
     
 ```text    
-https://cdn.jsdelivr.net/gh/barkure/emoticon@master/packages/小婳.zip    
+https://dl.mqaqm.com/小婳.zip    
 ```    
     
 ### ![](https://img.shields.io/badge/NEW-brightgreen?style=flat-square) 披被子的滑稽    
